@@ -164,7 +164,7 @@ public class Shop : IReportable
     public void PrintReport()
     {
         Console.WriteLine(new string('=', 60));
-        Console.WriteLine(
+        Console.WriteLine(" " +
             Name.ToUpper() + " : INVENTORY REPORT"
         );
         Console.WriteLine(new string('=', 60));
