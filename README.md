@@ -8,7 +8,8 @@ Unfinished: Nothing im finished
 
 This project creates an inventory system for River City Supply using inheritance, abstract classes, interfaces, aggregation, composition, and polymorphism. The inventory can contain perishable goods, durable goods, and service items while allowing the Shop class to manage them through the common StockItem base class.
 
-## How to run: Open in Visual Studio and run the program. The Consol will display the expected output for River City Supply.
+## How to run: 
+Open in Visual Studio and run the program. The Consol will display the expected output for River City Supply.
 
 ## Design Questions
 
